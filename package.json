@@ -1,0 +1,23 @@
+{
+  "name": "nypd-data",
+  "version": "1.0.0",
+  "description": "These are the notebooks and some of the data I used to calculate 2010 populations within 2020 police boundaries for several cities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkeefe/nypd-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkeefe/nypd-data/issues"
+  },
+  "homepage": "https://github.com/jkeefe/nypd-data#readme",
+  "dependencies": {
+    "csv2geojson": "^5.1.1",
+    "mapshaper": "^0.5.91"
+  }
+}

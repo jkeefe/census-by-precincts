@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jkeefe/nypd-data#readme",
   "dependencies": {
-    "csv2geojson": "^5.1.1",
+    "csv2geojson": "^5.1.2",
     "mapshaper": "^0.5.91"
   }
 }
